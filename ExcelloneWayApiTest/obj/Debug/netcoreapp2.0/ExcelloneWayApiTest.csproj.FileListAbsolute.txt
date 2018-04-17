@@ -1,0 +1,13 @@
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\bin\Debug\netcoreapp2.0\ExcelloneWayApiTest.deps.json
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\bin\Debug\netcoreapp2.0\ExcelloneWayApiTest.runtimeconfig.json
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\bin\Debug\netcoreapp2.0\ExcelloneWayApiTest.runtimeconfig.dev.json
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\bin\Debug\netcoreapp2.0\ExcelloneWayApiTest.dll
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\bin\Debug\netcoreapp2.0\ExcelloneWayApiTest.pdb
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\bin\Debug\netcoreapp2.0\BouncyCastle.Crypto.dll
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\obj\Debug\netcoreapp2.0\ExcelloneWayApiTest.csprojResolveAssemblyReference.cache
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\obj\Debug\netcoreapp2.0\ExcelloneWayApiTest.csproj.CoreCompileInputs.cache
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\obj\Debug\netcoreapp2.0\ExcelloneWayApiTest.AssemblyInfoInputs.cache
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\obj\Debug\netcoreapp2.0\ExcelloneWayApiTest.AssemblyInfo.cs
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\obj\Debug\netcoreapp2.0\ExcelloneWayApiTest.csproj.CopyComplete
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\obj\Debug\netcoreapp2.0\ExcelloneWayApiTest.dll
+C:\GST\ExcelloneWayApiTest\ExcelloneWayApiTest\obj\Debug\netcoreapp2.0\ExcelloneWayApiTest.pdb
